@@ -88,16 +88,11 @@
 
 ---
 
-### 🕹️ Interactive Mini-Game: Snake!
-*Sim, você pode jogar no meu README! (Clique na imagem para jogar)*
-
 <div align="center">
   <a href="https://github.com/JEAN1ACCELER/JEAN1ACCELER/actions">
     <img src="https://raw.githubusercontent.com/JEAN1ACCELER/JEAN1ACCELER/output/github-contribution-grid-snake.svg" alt="Snake Game" />
   </a>
 </div>
-
-*(Nota: Para a cobrinha funcionar, você precisará configurar uma GitHub Action no seu repositório especial. As instruções foram fornecidas anteriormente!)*
 
 ---
 
