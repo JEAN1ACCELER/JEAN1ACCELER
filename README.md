@@ -24,8 +24,7 @@
   "role": "Desenvolvedor Full Stack com paixão por Web, Mobile e IA",
   "learning": "Atualmente aprofundando conhecimentos em [TECNOLOGIA_ESTUDANDO]",
   "focus": "Foco em Desenvolvimento Web, Mobile (Android) e Engenharia de Prompt",
-  "contact": "[SEU_EMAIL@example.com]",
-  "fun_fact": "Curiosidade: [CURIOSIDADE_DIVERTIDA]",
+  "contact": "[jeanbarauna4@gmail.com]",
   "status": "Online 🟢"
 }
 ```
