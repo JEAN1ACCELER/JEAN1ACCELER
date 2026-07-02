@@ -126,4 +126,4 @@ Quando não estou codando, você pode me encontrar:
 
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=8&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=OBRIGADO+POR+JOGAR!;VIBE+CODER+SEMPRE+ONLINE...;LEVEL+UP!+%E2%AC%86%EF%B8%8F" alt="Thanks"/> </div>
-<div align="center"> <sub>© 2024 Vibe Coder - Todos os direitos reservados no mundo dos games</sub> </div> ``
+<div align="center"> <sub>© 2026 Vibe Coder - Todos os direitos reservados no mundo dos games</sub> </div> 
