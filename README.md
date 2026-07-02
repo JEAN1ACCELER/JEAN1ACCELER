@@ -22,7 +22,7 @@
   "level": "Information Systems Student",
   "base": "Itacoatiara, Amazonas, Brasil",
   "role": "Desenvolvedor Full Stack com paixão por Web, Mobile e IA",
-  "learning": "Atualmente aprofundando conhecimentos em [TECNOLOGIA_ESTUDANDO]",
+  "learning": "Atualmente aprofundando conhecimentos em [Ligar um DataShow]",
   "focus": "Foco em Desenvolvimento Web, Mobile (Android) e Engenharia de Prompt",
   "contact": "[jeanbarauna4@gmail.com]",
   "status": "Online 🟢"
