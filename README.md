@@ -18,7 +18,7 @@
 
 ```json
 {
-  "class": "Vibe Coder & Prompt Engineer",
+  "class": "Prompt Engineer",
   "level": "Information Systems Student",
   "base": "Itacoatiara, Amazonas, Brasil",
   "role": "Desenvolvedor Full Stack com paixão por Web, Mobile e IA",
